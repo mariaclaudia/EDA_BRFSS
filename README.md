@@ -1,5 +1,5 @@
 # EDA_BRFSS
-Exploratory Data Analysis on Behavioural Risk Factor Surveillance System (BRFSS) and Sleep disorders
+Exploratory Data Analysis on Behavioural Risk Factor Surveillance System (BRFSS) and Short Sleep.
 
 ## Whats is BRFSS: 
 
@@ -8,11 +8,6 @@ Exploratory Data Analysis on Behavioural Risk Factor Surveillance System (BRFSS)
 BRFSS is conducted by the **CDC** (Centers for Diseases Control and Prevention, the U.S federal agency) and it's composed by "Core" questions and "modules". The "core" datasets are public and used by both governmental and independent researches.
 
 The objective of the BRFSS is to collect uniform, state-specific data on preventive health practices and risk behaviors that are linked to chronic diseases, injuries, and preventable infectious diseases in the adult population. Factors assessed by the BRFSS include tobacco use, health care coverage, HIV/AIDS knowledge or prevention, physical activity, and fruit and vegetable consumption. Data are collected from a random sample of adults (one per household) through a telephone survey.
-
-KPI is a type of performance measurement that helps you understand how your organization or department is performing.
-In healthcare, there may only be limited scientific evidence to support a KPI and it becomes
-necessary to avail of expert opinion.
-They can make a national map and figure out where smoking prevalence is highest, and then target areas to encourage smoking cessatios.
 
 ## Sleep Disorders
 
@@ -31,6 +26,12 @@ Epidemiologic studies conducted in the community have also revealed an associati
 
 The relationship between sleep and depression is complex. While sleep disturbance has long been held to be an important symptom of depression, recent research has indicated that depressive symptoms may decrease once sleep apnea has been effectively treated and sufficient sleep restored. The interrelatedness of sleep and depression suggests it is important that the sleep sufficiency of persons with depression be assessed and that symptoms of depression be monitored among persons with a sleep disorder. 4, 5
 
+KPI is a type of performance measurement that helps you understand how your organization or department is performing.
+In healthcare, there may only be limited scientific evidence to support a KPI and it becomes
+necessary to avail of expert opinion.
+They can make a national map and figure out where smoking prevalence is highest, and then target areas to encourage smoking cessatios.
+
+
 *References*
 
 
@@ -45,15 +46,8 @@ Zimmerman M, McGlinchey JB, Young D, Chelminski I. Diagnosing major depressive d
 Schwartz DJ, Kohler WC, Karatinos G. Symptoms of depression in individuals with obstructive sleep apnea may be amenable to treatment with continuous positive airway pressure. Chest 2005;128:1304–1306.
 
 
-KPI is a type of performance measurement that helps you understand how your organization or department is performing.
 
-In healthcare, there may only be limited scientific evidence to support a KPI and it becomes necessary to avail of expert opinion.
-
-
-
-
-
-## BRFSS  resources: 
+## BRFSS resources: 
 
 
 * Dataset:
@@ -69,4 +63,4 @@ In healthcare, there may only be limited scientific evidence to support a KPI an
 
 * [**Historical questions database**](https://chronicdata.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factor-Surveillance-System-BRFSS-H/iuq5-y9ct): questions/variable per year
 
-In the BRSFSS Dataset 2015 the question "On average, how many hours of sleep do you get in a 24-hour period?" was not included.
+Note: In the BRSFSS Dataset 2015 the question "On average, how many hours of sleep do you get in a 24-hour period?" was not included.
