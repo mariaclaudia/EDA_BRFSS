@@ -3,11 +3,9 @@ Exploratory Data Analysis on Behavioural Risk Factor Surveillance System (BRFSS)
 
 ## Whats is BRFSS: 
 
-**BRFSS** ia a large phone anonymous survey conduceted **every year** through a state and federal collaboration and with **NHANES** represents the main US risk factor Surveillance. 
+[**BRFSS**](https://www.cdc.gov/brfss/index.html) ia a large phone anonymous survey conduceted **every year** through a state and federal collaboration and with **NHANES** represents the main US risk factor Surveillance. 
 
-BRFSS is conducted by the **CDC** (Centers for Diseases Control and Prevention, the U.S federal agency) and it's composed by "Core" questions and "modules"
-
-The "core" datasets are public and used by both governmental and independent researches.
+BRFSS is conducted by the **CDC** (Centers for Diseases Control and Prevention, the U.S federal agency) and it's composed by "Core" questions and "modules". The "core" datasets are public and used by both governmental and independent researches.
 
 The objective of the BRFSS is to collect uniform, state-specific data on preventive health practices and risk behaviors that are linked to chronic diseases, injuries, and preventable infectious diseases in the adult population. Factors assessed by the BRFSS include tobacco use, health care coverage, HIV/AIDS knowledge or prevention, physical activity, and fruit and vegetable consumption. Data are collected from a random sample of adults (one per household) through a telephone survey.
 
