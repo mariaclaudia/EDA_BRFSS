@@ -27,8 +27,7 @@ Starting from 2013 this new question about sleeping has been tested and so we ca
 
 I wuold like to investigate how short sleep duration varies by social/demographic factors by (sex, age, race/ethnicity, education level, income, employment status) and if risk factors (BMI, smokers, Physical activity) are more common among adults who sleep <7 hours compared to those who sleep ≥7 hours and display and propose KPIs.
 
-As this is a large data set, along the way you’ll also learn the indispensable skills of data processing and subsetting.
-In order to do this I've downloaded the three datasets available (they are very huge, see below) and tried to figure out the structure and the useful data/variables. As these are large data set, it's necessary to manage data processing and subsetting operations.
+In order to do this I've downloaded the three datasets available (they are very larhe, see link below) and tried to figure out the structure and the useful data/variables. As these are large data set, first af all it's necessary to manage data processing and subsetting operations.
 
 
 Data Pipeline - Ipython notebook: 
