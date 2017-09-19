@@ -15,15 +15,15 @@ Adults need 7 or more hours of sleep per night for the best health and wellbeing
 
 Notably, insufficient sleep has been linked to the development and management of a number of chronic diseases and conditions, including diabetes, cardiovascular disease, obesity,and depression.
 
-Starting from 2013 
+*On average, how many hours of sleep do you get in a 24-hour period?*
+BRFSS variable :SLEPTIM1 
+Starting from 2013 this new question about sleeping has been tested and so we can analyse data at least for three years (2013-2014-2016, no present in the 2015 survey)
 
-I wuold like to investigate how short sleep duration varies by social/demographic factors by (sex, age, race/ethnicity, education level, income, employment status) and if risk factors (BMI, smokers, Physical activity) are more common among adults who sleep <7 hours compared to those who sleep ≥7 hours.
+I wuold like to investigate how short sleep duration varies by social/demographic factors by (sex, age, race/ethnicity, education level, income, employment status) and if risk factors (BMI, smokers, Physical activity) are more common among adults who sleep <7 hours compared to those who sleep ≥7 hours and display and propose KPIs.
 
-KPI is a type of performance measurement that helps you understand how your organization or department is performing.
-In healthcare, there may only be limited scientific evidence to support a KPI and it becomes
-necessary to avail of expert opinion.
-They can make a national map and figure out where smoking prevalence is highest, and then target areas to encourage smoking cessatios.
+In order to do this I've downloaded the three datasets available (they are very huge, see below) and tried to figure out the structure and the useful data/variables.
 
+In the two iPython notebook 
 
 *References*
 
