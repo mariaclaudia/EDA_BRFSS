@@ -25,15 +25,11 @@ I wuold like to investigate how short sleep duration varies by social/demographi
 
 In order to do this I've downloaded the three datasets available (they are very huge, see below) and tried to figure out the structure and the useful data/variables.
 
-In the two iPython notebook 
+Data Pipeline: 
 
-*References*
-
-Knutson KL, Ryden AM, Mander VA, Van Cauter E. Role of sleep duration and quality in the risk and severity of type 2 diabetes mellitus. Arch Intern Med 2006;166:1768–1764.
-
-Kasasbeh E, Chi DS, Krishnaswamy G. Inflammatory aspects of sleep apnea and their cardiovascular consequences. South Med J 2006;99:58–67.
-
-Taheri S. The link between short sleep duration and obesity: We should recommend more sleep to prevent obesity. Arch Dis Child 2006;91:881–884.
+ - [Data Preparation](1_BRFSS_DataPreparation.ipynb)
+ 
+ - [Data Exploration](2_BRFSS_DataExploration.ipynb)
 
 
 ## BRFSS resources: 
