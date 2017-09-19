@@ -9,7 +9,11 @@ BRFSS is conducted by the CDC (Centers for Diseases Control and Prevention, the 
 
 The objective of the BRFSS is to collect uniform, state-specific data on preventive health practices and risk behaviors that are linked to chronic diseases, injuries, and preventable infectious diseases in the adult population. Factors assessed by the BRFSS include tobacco use, health care coverage, HIV/AIDS knowledge or prevention, physical activity, and fruit and vegetable consumption. Data are collected from a random sample of adults (one per household) through a telephone survey.
 
-## Sufficient sleep
+## Insufficient Sleep
+
+Insufficient Sleep Is a Public Health Problem.
+
+1 / 3  americans get fewer than 7 hours of sleep per night, because of this $50 billion are lost in productivity and 5.000/6.000 fatal crash, each year, may be caused by drowsy drivers.
 
 Adults need 7 or more hours of sleep per night for the best health and wellbeing. Short sleep duration is defined as less than 7 hours of sleep per 24-hour period.
 
@@ -23,9 +27,11 @@ Starting from 2013 this new question about sleeping has been tested and so we ca
 
 I wuold like to investigate how short sleep duration varies by social/demographic factors by (sex, age, race/ethnicity, education level, income, employment status) and if risk factors (BMI, smokers, Physical activity) are more common among adults who sleep <7 hours compared to those who sleep ≥7 hours and display and propose KPIs.
 
-In order to do this I've downloaded the three datasets available (they are very huge, see below) and tried to figure out the structure and the useful data/variables.
+As this is a large data set, along the way you’ll also learn the indispensable skills of data processing and subsetting.
+In order to do this I've downloaded the three datasets available (they are very huge, see below) and tried to figure out the structure and the useful data/variables. As these are large data set, it's necessary to manage data processing and subsetting operations.
 
-Data Pipeline: 
+
+Data Pipeline - Ipython notebook: 
 
  - [Data Preparation](1_BRFSS_DataPreparation.ipynb)
  
